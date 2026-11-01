@@ -386,3 +386,41 @@ By connecting lessons, practical exercises, progressive hints, and challenge exp
 The project will be developed incrementally, beginning with the core CTF functionality and expanding into the integrated Cybersecurity Academy.
 
 Contributions, ideas, and educational challenge suggestions are welcome.
+
+
+
+
+
+ReverseLab/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── docs/
+│   ├── project-proposal.md
+│   ├── system-architecture.md
+│   ├── database-design.md
+│   ├── security-design.md
+│   └── roadmap.md
+│
+├── frontend/
+│   └── ...
+│
+├── backend/
+│   └── ...
+│
+├── academy/
+│   ├── fundamentals/
+│   ├── assembly/
+│   ├── static-analysis/
+│   └── dynamic-analysis/
+│
+├── challenges/
+│   ├── beginner/
+│   ├── intermediate/
+│   └── advanced/
+│
+└── assets/
+    ├── diagrams/
+    └── icons/
